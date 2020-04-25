@@ -1,20 +1,4 @@
 {
-  "alunos": [
-    {
-      "codigo" : 1,
-      "nome" : "João"
-    },
-    {
-      "codigo" : 2,
-      "nome" : "Maria"
-    },
-    {
-      "codigo" : 3,
-      "nome" : "Joaquim"
-    },
-    {
-      "codigo" : 4,
-      "nome" : "Tamires"
-    }
-   ]
+   "code":"0",
+   "message":"OK. Transaction successful."
 }

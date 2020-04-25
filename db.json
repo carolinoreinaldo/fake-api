@@ -1,7 +1,20 @@
 {
   "alunos": [
-    1: "João",
-    2: "Carmen",
-    3: "Holanda"
+    {
+      "codigo" : 1,
+      "nome" : "João"
+    },
+    {
+      "codigo" : 2,
+      "nome" : "Maria"
+    },
+    {
+      "codigo" : 3,
+      "nome" : "Joaquim"
+    },
+    {
+      "codigo" : 4,
+      "nome" : "Tamires"
+    },
    ]
 }

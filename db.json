@@ -1,4 +1,6 @@
 {
-   "code":"0",
-   "message":"OK. Transaction successful."
+   "obj" : {
+      "code":"0",
+      "message":"OK. Transaction successful."
+   }
 }

@@ -2,5 +2,32 @@
    "obj" : {
       "code":"0",
       "message":"OK. Transaction successful."
+   },
+   "cancelamento-final": {
+   "code":"0",
+   "message":"OK. Transaction successful.",
+   "cancellation":{
+      "authorizer_code":"000",
+      "authorizer_message":"Transacao OK",
+      "status":"CON",
+      "nit":" 1234567890abcdefghijklmnopqrstuvwxyz1234567890abcdefghijklmnopqr",
+      "order_id":"09062259711",
+      "customer_receipt":"=== COMPROVANTE ===",
+      "merchant_receipt":"=== COMPROVANTE ===",
+      "authorizer_id":"2",
+      "acquirer_id":"1005",
+      "acquirer_name":"Redecard",
+      "authorizer_date":"09/11/2017T18:23",
+      "authorization_number":"092423",
+      "merchant_usn":"9062259711",
+      "esitef_usn":"171109108051261",
+      "sitef_usn":"092424",
+      "host_usn":"999092424   ",
+      "amount":"1000",
+      "payment_type":"C",
+      "issuer":"2",
+      "authorizer_merchant_id":"000000000000005",
+      "esitef_date":"09/11/2017T18:23",
+      "is_host_cancel":"false"
    }
 }

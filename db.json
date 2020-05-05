@@ -31,7 +31,7 @@
          "is_host_cancel":"false"
       }
    },
-   "aprovacao" {
+   "aprovacao" : {
       "code":"0",
       "message":"OK. Transaction successful.",
       "capture":{
